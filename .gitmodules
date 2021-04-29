@@ -1,0 +1,3 @@
+[submodule "vivaldi_mods_collection"]
+	path = vivaldi_mods_collection
+	url = https://github.com/code3z/vivaldi_mods_collection.git
